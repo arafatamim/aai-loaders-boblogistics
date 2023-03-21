@@ -1,0 +1,14 @@
+{
+  "name": "aai-loaders-boblogistics",
+  "version": "0.0.1",
+  "factorio_version": "1.1",
+  "title": "AAI Loaders for Bob's Logistics",
+  "author": "arafatamim",
+  "contact": "tamim.arafat@gmail.com",
+  "dependencies": [
+    "base >= 1.1.0",
+    "boblogistics <= 1.1.6",
+    "aai-loaders"
+  ],
+  "description": "AAI Loaders integration for Bob's Logistics"
+}
